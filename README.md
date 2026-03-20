@@ -1,15 +1,14 @@
 ## Olá! Sou Regina Ripke
 <div align="left"> 
  
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** 
+Sou uma profissional em transição de carreira para tecnologia, com mais de 15 anos de experiência em análise de dados, processos e operações, atuando em ambientes de elevada complexidade e com resultados mensuráveis.
+
+Atualmente curso Análise e Desenvolvimento de Sistemas, explorando desenvolvimento Fullstack, Python, JavaScript e análise de dados, com foco em projetos práticos para consolidar conhecimentos em programação e construção de soluções digitais.
+
+Tenho como objetivo ingressar no mercado de tecnologia como desenvolvedora, evoluir rapidamente e agregar valor desde o primeiro dia, unindo minha bagagem corporativa com habilidades técnicas em constante desenvolvimento.
+
+Sou disciplinada, proativa e estou sempre em busca de aprender, evoluir e entregar soluções com qualidade.
  
-🌱 Atualmente estudando:
-- Linguagem de Programação (Python, C)
-- Análise e Modelagem de Dados
-- Engenharia de Software
-- Lógica e Matemática Computacional
-- Algoritmos e Programação Estruturada
-  
 </div>
 
  ### Minhas Skills
